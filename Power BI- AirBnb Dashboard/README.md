@@ -52,13 +52,13 @@ This project demonstrates **data cleaning**, **modeling**, **KPI creation**, and
 ---
 
 ## 📂 Project Structure
-
+```
 Airbnb_Dashboard/
 ├── Airbnb_Dashboard.pbix # Power BI dashboard file
 ├── report.pdf # Full technical report
 ├── images/ # Dashboard screenshots
 └── README.md # Project overview
-
+```
 
 ---
 
