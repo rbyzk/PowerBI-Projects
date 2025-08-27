@@ -4,7 +4,7 @@ This project presents an **interactive Power BI dashboard** that analyzes **Airb
 It provides insights into **pricing patterns**, **room types**, **service fees**, and **neighborhood-based demand** using Airbnb’s open dataset.
 
 
-<img width="1438" height="803" alt="image" src="https://github.com/user-attachments/assets/21bddaa0-db83-4c7d-8548-7a39c09ff31b" />
+<img width="1413" height="792" alt="image" src="https://github.com/user-attachments/assets/10a41ca7-85d6-45f3-9b96-f62df627368c" />
 
 ---
 
